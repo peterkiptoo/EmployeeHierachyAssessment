@@ -1,0 +1,10 @@
+D:\PROJECTS_C#\EmployeeHierarchyAssessment\EmployeeHierarchyAssessment\bin\Debug\netstandard2.0\EmployeeHierarchyAssessment.deps.json
+D:\PROJECTS_C#\EmployeeHierarchyAssessment\EmployeeHierarchyAssessment\bin\Debug\netstandard2.0\EmployeeHierarchyAssessment.dll
+D:\PROJECTS_C#\EmployeeHierarchyAssessment\EmployeeHierarchyAssessment\bin\Debug\netstandard2.0\EmployeeHierarchyAssessment.pdb
+D:\PROJECTS_C#\EmployeeHierarchyAssessment\EmployeeHierarchyAssessment\obj\Debug\netstandard2.0\EmployeeHierarchyAssessment.csproj.AssemblyReference.cache
+D:\PROJECTS_C#\EmployeeHierarchyAssessment\EmployeeHierarchyAssessment\obj\Debug\netstandard2.0\EmployeeHierarchyAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS_C#\EmployeeHierarchyAssessment\EmployeeHierarchyAssessment\obj\Debug\netstandard2.0\EmployeeHierarchyAssessment.AssemblyInfoInputs.cache
+D:\PROJECTS_C#\EmployeeHierarchyAssessment\EmployeeHierarchyAssessment\obj\Debug\netstandard2.0\EmployeeHierarchyAssessment.AssemblyInfo.cs
+D:\PROJECTS_C#\EmployeeHierarchyAssessment\EmployeeHierarchyAssessment\obj\Debug\netstandard2.0\EmployeeHierarchyAssessment.csproj.CoreCompileInputs.cache
+D:\PROJECTS_C#\EmployeeHierarchyAssessment\EmployeeHierarchyAssessment\obj\Debug\netstandard2.0\EmployeeHierarchyAssessment.dll
+D:\PROJECTS_C#\EmployeeHierarchyAssessment\EmployeeHierarchyAssessment\obj\Debug\netstandard2.0\EmployeeHierarchyAssessment.pdb
